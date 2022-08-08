@@ -148,7 +148,7 @@ int main(int argc, char *argv[])
     printf("\t%s[text]: %sThe text to print%s\n", PURPLE, YELLOW, RESET);
     break;
   case version:
-    printf("typrint 1.0.0\n");
+    printf("Cyprint 0.1.0\n");
     break;
   }
   return 0;
